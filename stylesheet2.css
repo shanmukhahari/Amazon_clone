@@ -1,0 +1,10 @@
+.inline{
+    background-color:aqua ;
+    display: inline;
+    color:crimson;
+}
+.dinesh{
+    background-color: chocolate;
+    display: block;
+    color: bisque;
+}
